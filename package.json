@@ -1,0 +1,16 @@
+{
+  "name": "minecraft-ingame-ai",
+  "version": "1.0.0",
+  "description": "Minecraft Sunucuları İçin Oyun-içi Sohbet Botu",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "dotenv": "^16.4.5",
+    "mineflayer": "^4.21.0"
+  },
+  "author": "qEnderK",
+  "license": "MIT"
+}
