@@ -4,7 +4,7 @@ const axios = require('axios');
 
 const bot = mineflayer.createBot({
     host: '', //Buraya IP yaz
-    port: 25565, //Buraya porti yaz
+    port: 25565, //Buraya portu yaz
     username: '', //Buraya bot ismini yaz
     version: false, //Buraya sürüm yaz(false önerilir)
     checkTimeoutInterval: 120000, //Buraya sadece ne yaptığını biliyorsansa dokun!
