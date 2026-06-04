@@ -1,5 +1,3 @@
-# DANGER: THIS PROJECT IS NO LONGER ACTIVITELY MAINTAINED.
--------------
 # Minecraft AI Chatbot
 
 Bu proje, Minecraft sunucularında oyuncularla özel mesaj (`/msg`) üzerinden iletişim kuran, OpenRouter tabanlı bir yapay zeka asistanıdır.
